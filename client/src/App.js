@@ -1,4 +1,5 @@
 import * as React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import CssBaseline from "@mui/material/CssBaseline";
 import { ThemeProvider } from "@mui/material/styles";
 import "./App.css";
@@ -12,7 +13,11 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Container fixed>
-        <HomePage />
+          <BrowserRouter>
+            <Routes>
+              <Route path='/' element={<HomePage />}></Route>
+            </Routes>
+          </BrowserRouter>
         </Container>
       </ThemeProvider>
     </div>
