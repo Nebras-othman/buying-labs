@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "destination": "Berlin",
+    "name": "hotel1",
+    "availableRooms": 5,
+    "price": "5",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "destination": "Berlin",
+    "name": "hotel2",
+    "availableRooms": 2,
+    "price": "15",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 3,
+    "destination": "Berlin",
+    "name": "hotel3",
+    "availableRooms": 0,
+    "price": "25",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 4,
+    "destination": "Berlin",
+    "name": "hotel4",
+    "availableRooms": 0,
+    "price": "25",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 5,
+    "destination": "Berlin",
+    "name": "hotel5",
+    "availableRooms": 15,
+    "price": "31",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 6,
+    "destination": "Berlin",
+    "name": "hotel6",
+    "availableRooms": 26,
+    "price": "35",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 7,
+    "destination": "Paris",
+    "name": "hotel7",
+    "availableRooms": 5,
+    "price": "63",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 8,
+    "destination": "Paris",
+    "name": "hotel8",
+    "availableRooms": 2,
+    "price": "21",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 9,
+    "destination": "Paris",
+    "name": "hotel9",
+    "availableRooms": 4,
+    "price": "32",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 10,
+    "destination": "Paris",
+    "name": "hotel10",
+    "availableRooms": 0,
+    "price": "17",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 11,
+    "destination": "Paris",
+    "name": "hotel11",
+    "availableRooms": 15,
+    "price": "19",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 12,
+    "destination": "Paris",
+    "name": "hotel12",
+    "availableRooms": 26,
+    "price": "22",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 13,
+    "destination": "London",
+    "name": "hotel13",
+    "availableRooms": 5,
+    "price": "15",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 14,
+    "destination": "London",
+    "name": "hotel14",
+    "availableRooms": 2,
+    "price": "17",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 15,
+    "destination": "London",
+    "name": "hotel15",
+    "availableRooms": 4,
+    "price": "19",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 16,
+    "destination": "London",
+    "name": "hotel16",
+    "availableRooms": 1,
+    "price": "12",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 17,
+    "destination": "London",
+    "name": "hotel17",
+    "availableRooms": 15,
+    "price": "19",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 18,
+    "destination": "London",
+    "name": "hotel18",
+    "availableRooms": 0,
+    "price": "70",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 19,
+    "destination": "Praha",
+    "name": "hotel19",
+    "availableRooms": 5,
+    "price": "36",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 20,
+    "destination": "Praha",
+    "name": "hotel20",
+    "availableRooms": 2,
+    "price": "43",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 21,
+    "destination": "Praha",
+    "name": "hotel21",
+    "availableRooms": 4,
+    "price": "21",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 22,
+    "destination": "Praha",
+    "name": "hotel22",
+    "availableRooms": 0,
+    "price": "5",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 23,
+    "destination": "Praha",
+    "name": "hotel23",
+    "availableRooms": 15,
+    "price": "11",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 24,
+    "destination": "Praha",
+    "name": "hotel24",
+    "availableRooms": 26,
+    "price": "12",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 25,
+    "destination": "Madrid",
+    "name": "hotel25",
+    "availableRooms": 5,
+    "price": "43",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 26,
+    "destination": "Madrid",
+    "name": "hotel26",
+    "availableRooms": 2,
+    "price": "5",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 27,
+    "destination": "Madrid",
+    "name": "hotel27",
+    "availableRooms": 4,
+    "price": "36",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 28,
+    "destination": "Madrid",
+    "name": "hotel28",
+    "availableRooms": 0,
+    "price": "39",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  },
+  {
+    "id": 29,
+    "destination": "Madrid",
+    "name": "hotel29",
+    "availableRooms": 15,
+    "price": "21",
+    "imageUrl": "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGhvdGVsfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "id": 30,
+    "destination": "Madrid",
+    "name": "hotel30",
+    "availableRooms": 0,
+    "price": "90",
+    "imageUrl": "https://media.istockphoto.com/photos/interior-view-of-gorgeous-hotel-picture-id838103468?k=20&m=838103468&s=612x612&w=0&h=oTn9PtSBFXr8WPLpBVGTribwu19qwOPTPVcaOz7FJH0="
+  }
+]
