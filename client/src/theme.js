@@ -15,7 +15,13 @@ const theme = createTheme({
     },
   },
   typography: {
-  
+   h1: {
+    fontSize: '36px',
+    fontWeight: 600
+   },
+   h2: {
+    fontSize: '32px',
+   }
   },
 });
 

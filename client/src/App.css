@@ -1,0 +1,11 @@
+.home-page {
+  max-height: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.App {
+   display: flex;
+   align-items: center;
+   min-height: 100vh;
+}

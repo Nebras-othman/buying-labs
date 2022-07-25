@@ -6,6 +6,7 @@ import "./App.css";
 import HomePage from "./components/pages/HomePage";
 import theme from "./theme";
 import { Container } from "@mui/material";
+import HotelsList from "./components/HotelsList";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <BrowserRouter>
             <Routes>
               <Route path='/' element={<HomePage />}></Route>
+              <Route path='/search' element={<HotelsList />}></Route>
             </Routes>
           </BrowserRouter>
         </Container>
